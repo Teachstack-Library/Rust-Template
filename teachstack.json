@@ -5,6 +5,7 @@
       "version": "1.85.0"
     }
   ],
+
   "modules": [
     {
       "name": "Hello World",
